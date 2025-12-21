@@ -23,7 +23,7 @@ Each day will include at least one algorithm problem, while additional modules w
 ### Hard Skills
 - **Python** – learn Python syntax to be able to implement any algorithm
 - **Algorithms** – learn algorithms for searching, sorting, and graph problems
-- **Packages** – practice with `numpy`, `sympy`, `argparse`, `random`, `re` and other optional packages
+  - **Packages** – practice with `numpy`, `pandas`, `matplotlib`, `sympy`, `argparse`, `random`, `re` and other optional packages
 - **Data Structures** – learn and implement basic and advanced data structures
 - **Git** – learn how to work with Git and set up a proper workflow in an IDE
 
