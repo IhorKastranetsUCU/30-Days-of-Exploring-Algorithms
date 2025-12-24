@@ -12,7 +12,7 @@ through a 30-day marathon-style challenge.
 
 Each day includes:
 - Documentation of the algorithm (`algorithm.md`)
-- A clean Python implementation (`algorithm.py`)
+- A clean Python implementation from both persons (`algorithm_ihor.py`) (`algorithm_maksym.py`)
 - A reflection note (`notes.md`) summarizing insights, challenges, and learning
 
 ## Goals
