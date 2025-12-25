@@ -1,7 +1,8 @@
 # Day 2
 
 This was second day of challange. note for first day was skipped because i was writing my code in my village , cause it was Christmass Eve.
-As it is. The day of Christmas was great and challange wasn't burden , but rather part , which gave feel of knoweledge growth besides spiritual and connection growth. 
+As it is. The day of Christmas was great and challange wasn't burden , but rather part , 
+which gave feel of knoweledge growth besides spiritual and connection growth. 
 
 ---
 
