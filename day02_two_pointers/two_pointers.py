@@ -1,9 +1,8 @@
 def two_pointers(string):
     """
-    The function is an example of two pinters algoithm. It checks is the string palindrom.
-    :param string: str, the given string
-    :return: True if the string is palindrom, False otherwise
-    >>> two_pointers("1234")
+    The function is an example of the two-pointer algorithm. It checks whether a string is a palindrome.
+:param string: str, the given string
+:return: bool, True if the string is a palindrome, False otherwise    >>> two_pointers("1234")
     False
     >>> two_pointers("HeleH")
     True
