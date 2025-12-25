@@ -60,6 +60,7 @@ day05_two_pointers/
 
 ## Progress
 
-| Day | Algorithm  | Notes                                       | Ihor Status | Maksym Status |
-|-----|------------|---------------------------------------------|-----------|---------------|
-| 1   | prefix_sum | [day01.md](day01_prefix_sum/day01_notes.md) |    🟢     |       🟢        |
+| Day | Algorithm                                                  | Notes                                    | Ihor Status | Maksym Status |
+|-----|------------------------------------------------------------|------------------------------------------|-----------|---------------|
+| 1   | [Prefix Sum](day01_prefix_sum/prefix_sum.md)               | [Day 1](day01_prefix_sum/day01_notes.md) |    🟢     |       🟢        |
+| 2   | [Two Pointers](day02_two_pointers/two_pointers.md)         | [Day 2](day02_two_pointers/day02_notes.md)                                |   🟢          |     🟢              |
