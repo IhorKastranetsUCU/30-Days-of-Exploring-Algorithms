@@ -4,7 +4,7 @@ import matplotlib.animation as animation
 import numpy as np
 
 # --- Дані та Логіка Алгоритму ---
-heights = [1, 8, 6, 2, 5, 4, 7, 3, 6]
+heights = [1, 7, 6, 2, 5, 4, 8, 3, 6]
 n = len(heights)
 x_pos = np.arange(n)
 
@@ -35,14 +35,12 @@ def get_two_pointer_steps(h):
             left += 1
         else:
             right -= 1
-
+    print(steps)
     return steps
 
 
-# Отримуємо всі кроки алгоритму
 algorithm_steps = get_two_pointer_steps(heights)
 
-# --- Налаштування Анімації ---
 fig, ax = plt.subplots(figsize=(8, 6))
 
 
