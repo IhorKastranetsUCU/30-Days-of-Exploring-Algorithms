@@ -30,7 +30,7 @@ I have completed only one task : **75. Sort Colors** for implmenting inplace Cou
 
 ## LetCode problems
 
-#### 904. Fruit Into Baskets
+#### 75. Sort Colors
 ```
 def sortColors(self, nums: List[int]) -> None:
       """
@@ -72,3 +72,4 @@ def count_sort(arr : list) -> list:
 
     return res
 ```
+
