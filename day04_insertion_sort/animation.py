@@ -194,7 +194,7 @@ def create_centered_viz(s):
     plt.close()
 
 
-input_s = "nyewyearraeywen"
+input_s = "newyearraeywen"
 create_centered_viz(input_s)
 
 
