@@ -60,8 +60,9 @@ day05_two_pointers/
 
 ## Progress
 
-| Day | Algorithm                                                   | Notes                                      | Ihor Status | Maksym Status |
-|-----|-------------------------------------------------------------|--------------------------------------------|-----------|---------------|
-| 1   | [Prefix Sum](day01_prefix_sum/prefix_sum.md)                | [Day 1](day01_prefix_sum/day01_notes.md)   |    🟢     |       🟢        |
-| 2   | [Two Pointers](day02_two_pointers/two_pointers.md)          | [Day 2](day02_two_pointers/day02_notes.md) |   🟢          |     🟢              |
-| 3   | [Sliding Window](day03_sliding_window/sliding_algorithm.md) | [Day 3](day03_sliding_window/day03_notes.md)                                  |       🟢         |         🟢             |
+| Day | Algorithm                                                   | Notes                                        | Ihor Status | Maksym Status |
+|-----|-------------------------------------------------------------|----------------------------------------------|-----------|---------------|
+| 1   | [Prefix Sum](day01_prefix_sum/prefix_sum.md)                | [Day 1](day01_prefix_sum/day01_notes.md)     |    🟢     |       🟢        |
+| 2   | [Two Pointers](day02_two_pointers/two_pointers.md)          | [Day 2](day02_two_pointers/day02_notes.md)   |   🟢          |     🟢              |
+| 3   | [Sliding Window](day03_sliding_window/sliding_algorithm.md) | [Day 3](day03_sliding_window/day03_notes.md) |       🟢         |         🟢             |
+| 4   | [Counting Sort](day04_counting_sort/counting_sort.md)       | [Day 4](day04_counting_sort/notes.md)                                    |          🟢        |        🟢                |
