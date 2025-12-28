@@ -1,20 +1,26 @@
 # Day 5
 
-This was the fifth day of the challenge. Everything is okay, I am working on my mental health to be
-productive during next semester.
-Today I've completed a couple of tasks , relaxed cause today is Sunday.
-
+This was the fifth day of the challenge. Everything is okay. I am working on my mental health to be
+productive during the next semester. Today I've completed a couple of tasks and relaxed because today is
+Sunday.
 
 ---
 
 ## Interpolation Search
 
-Today's topic was - **Interpolation Search**.
-Interpolation sound smth related to math, as appeared to be not without ground.
-Idea - if data is close to interpolated data it can efectively find neaded number.
-This great , because if data is good enough it gives incredibly fast **O(log(log(N)))**
-But constraints on data is very strong , when data is not good it goes to Linear Time.
+Today's topic was **Interpolation Search**. "Interpolation" sounds like something related to math, and that
+turned out to be true.
+The idea is that if the data is close to the interpolated values, the algorithm can effectively find the
+needed number. This is great because if the data is good enough, it gives an incredibly fast **$O(\log(\log N))$**.
+But the constraints on the data are very strong; when the data is not good, it goes to Linear Time.
 
+---
+
+## LeetCode
+
+I've completed the daily problem **1351. Count Negative Numbers in a Sorted Matrix**.
+Also, relevant to today's topic, I've submitted **704. Binary Search** with my interpolation search.
+I also solved **164. Maximum Gap**, a task with the idea of Interpolation Search combined with Bucket Sort.
 ---
 
 ## LeetCode
