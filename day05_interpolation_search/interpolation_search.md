@@ -32,9 +32,9 @@ may introduce small calculation errors in Python, which can make the algorithm l
 ---
 
 ## Complexity
-- **Worst case:** \(O(n)\)  
-- **Average case:** \(O(\log \log n)\)  
-- **Best case:** \(O(1)\)  
+- **Worst case:** $O(n)$  
+- **Average case:** $O(\log \log n)  $
+- **Best case:** $O(1)$
 
 ---
 
