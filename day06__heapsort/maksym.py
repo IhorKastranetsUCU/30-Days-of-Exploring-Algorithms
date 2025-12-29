@@ -28,8 +28,6 @@ def heap_sort(arr : list):
 
     return arr
 
-
-
 if __name__ == "__main__":
     arr = [5,12,64,1,37, 90,91 , 97]
     print(heap_sort(arr))
