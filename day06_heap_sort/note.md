@@ -1,6 +1,7 @@
 # Day 6
 
-## Overol
+## Overall
+
 I didn't sleep at all because of setting up `Manim` locally and on `Colab`, as well as adjusting animations.
 It was a big mistake to start the challenge in the evening. Throughout the whole day, I felt exhausted and very sleepy.
 I hope I will take responsibility and do all tasks in the first part of the day from now on, because the next few days 
