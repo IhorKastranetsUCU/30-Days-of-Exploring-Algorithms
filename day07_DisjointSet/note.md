@@ -36,10 +36,13 @@ When we need to check if two objects belong to the same group, we start a traver
 
 I've completed daily problem **840. Magic Squares In Grid** , it was just implementation task of bruteforcing all possible 3x3 grids.
 
-Ihor found set for DSU problems. I've completed problems from there, 2 mid level.
-1 ) **990. Satisfiability of Equality Equations**
-2 ) **128. Longest Consecutive Sequence**
-Link to problem set[https://leetcode.com/problem-list/5lhmb4mj/]
+Ihor found set of DSU problems. I've completed problems from there, 2 mid level.
+
+1.   **990. Satisfiability of Equality Equations**
+
+2.   **128. Longest Consecutive Sequence**
+
+[Link to problem set](https://leetcode.com/problem-list/5lhmb4mj)
 
 
 ----
