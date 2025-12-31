@@ -8,11 +8,9 @@ the position to check is chosen using a formula rather than the middle of the cu
 In some scenarios that resemble real-world problems, this algorithm can be more efficient 
 than binary search. It uses the following formula:
 
-\[
-\text{pos} = \left\lfloor 
+$\text{pos} = \left\lfloor 
 l + \frac{(\text{target} - \text{array}[l]) \cdot (r - l)}{\text{array}[r] - \text{array}[l]} 
-\right\rfloor
-\]
+\right\rfloor$
 
 Where:  
 - \(l\) – left bound  

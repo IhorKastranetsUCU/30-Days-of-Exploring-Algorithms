@@ -57,7 +57,6 @@ Heap Sort uses a "virtual" tree through mapping:
 - When you **cannot afford to be slower than O(n log n)**  
 - When you **don’t need a fully sorted array**, only part of it
 ___
-### Related LeetCode Problems
 
 ## Related LeetCode Problems
 
