@@ -68,4 +68,4 @@ day05_two_pointers/
 | 4   | [Counting Sort](day04_counting_sort/counting_sort.md)                      | [Day 4](day04_counting_sort/notes.md)        |          🟢        |        🟢                |
 | 5   | [Interpolation search](day05_interpolation_search/interpolation_search.md) | [Day 5](day05_interpolation_search/notes.md) |                🟢     |          🟢                 |
 | 6   | [Heap sort](day06_heap_sort/heap_sort.md)                                  | [Day 6](day06_heap_sort/notes.md)            |            🟢         |     🟢                      |
-| 7   | [DSU](day07_DSE/DSU.md)                                                                    | [Day 7](day07_DSE/notes.md)                                    |       🟢                 |    🟢                          |
+| 7   | [DSU](day07_DSU/DSU.md)                                                    | [Day 7](day07_DSU/notes.md)                                    |       🟢                 |    🟢                          |
