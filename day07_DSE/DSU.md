@@ -126,7 +126,7 @@ ___
 
 - **Floyd-Warshall:**  
   Tells if one node can reach another and gives full connectivity data for every pair.  
-  **Comparison:** Much slower ($O(N^3)$), but provides more detailed information.
+  **Comparison:** Much slower $O(N^3)$, but provides more detailed information.
 ___
 ## When to Use
 
