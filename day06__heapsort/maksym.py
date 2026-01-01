@@ -21,12 +21,17 @@ def max_heap(arr : list) -> list :
     return arr
 
 
-def insert_in_heap(arr : list , v : int):
-    n  , m = len(arr) , len(arr)
+def insert_in_heap(arr: list, v: int):
     arr.append(v)
-    while m!=0:
-        heapify(arr , m , n)
-        m = (m-1) // 2
+    current = len(arr) - 1
+
+    while current > 0:
+        parent = (current - 1) // 2
+        if arr[current] > arr[parent]:
+            arr[current], arr[parent] = arr[parent], arr[current]
+            current = parent
+        else:
+            break
 
 
 
@@ -42,6 +47,8 @@ def heap_sort(arr : list):
         heapify(arr, 0, i)
 
     return arr
+
+
 
 if __name__ == "__main__":
     arr = [5,12,64,1,37, 90, 91 , 97]
