@@ -11,8 +11,8 @@ Feel slightly tired because of my Homework.
 Today's topic was widely knew **Dijkstra algorithm**.
 
 ### My Thoughts
-This algorithm is great and almost optimal , however during our DM project one of suggested was new algorithm , which in certain condition can outperform Dijkstra in sparse graph.
-
+This algorithm is great and almost optimal , however during our DM project one of suggested new algorithm , which in certain condition can outperform Dijkstra in sparse graph.
+[This algorithm Duan-Mao-Mao-Shu-Yiun ](https://arxiv.org/pdf/2504.17033)
 
 
 ### Algorithm
