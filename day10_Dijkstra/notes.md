@@ -1,4 +1,4 @@
-Day 10
+# Day 10
 ___
 - [Maksym’s Notes](#Maksym)
 - [Ihor’s Notes](#Ihor)

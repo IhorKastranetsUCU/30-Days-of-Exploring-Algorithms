@@ -1,3 +1,6 @@
+# Kruskal's Algorithm
+___
+
 ### Description
 Kruskal's algorithms is one of the ways to day searching the minimum spanning tree from the given graph.
 This tree should follow next rules:

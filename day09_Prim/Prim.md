@@ -1,3 +1,6 @@
+Prim's Algorithm
+___
+
 ### Description
 
 Prim’s algorithm builds a **Minimum Spanning Tree (MST)** by starting from a vertex and 
