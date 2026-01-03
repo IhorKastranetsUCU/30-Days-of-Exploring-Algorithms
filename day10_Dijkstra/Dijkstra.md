@@ -147,8 +147,8 @@ Let  be the number of vertices and  be the number of edges.
 | Approach                        | Time Complexity     | Space Complexity |
 |---------------------------------|---------------------|------------------|
 | Priority Queue (Binary Heap)    | $O((E + V) \log V)$ | $O(V+E)$         |
-| Priority Queue (Fibonacci Heap) | $O(V \log V + E) $  | $O(V + E)$       |                  |
-| Linear Scan (Array)             | $ O(V^2)   $        | $ O(V) $         |
+| Priority Queue (Fibonacci Heap) | $O(V \log V + E)$  | $O(V + E)$       |                  |
+| Linear Scan (Array)             | $O(V^2)$        | $O(V)$         |
 ---
 
 ### Pros
