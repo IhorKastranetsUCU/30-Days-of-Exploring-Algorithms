@@ -71,4 +71,4 @@ day05_two_pointers/
 | 7   | [DSU](day07_DSU/DSU.md)                                                    | [Day 7](day07_DSU/notes.md)                  |       🟢                 |    🟢                          |
 | 8   | [Kruskal's Algorithm](day08_Kruskal/Kruskal.md)                            | [Day 8](day08_Kruskal/notes.md)              |          🟢                | 🟢                               |
 | 9   | [Prim's Algorithm](day09_Prim/Prim.md)                                     | [Day 9](day09_Prim/notes.md)                 |                🟠          |        🟢                        |
-| 10  | [Dijkstra's Algorithm](day10_Djikstra/Dijkstra.md)                         | [Day 10](day10_Dijkstra/notes.md)            |            🟡              |           🟢                     |
+| 10  | [Dijkstra's Algorithm](day10_Dijkstra/Dijkstra.md)                         | [Day 10](day10_Dijkstra/notes.md)            |            🟡              |           🟢                     |
