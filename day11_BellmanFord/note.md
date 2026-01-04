@@ -25,7 +25,7 @@ Reason is simple , it is gratest possible length of minimal path.
 If path is longer => there exist cycle => length is not minimal.Therefore , we can optimize it.
 
 **Efficency**
-1. Time Complexity : **O(V*E)** , due to going through vertices and find min using min-heap.
+1. Time Complexity : **O(V*E)** , due to going through vertices.
 2. Space Complexity : **O(V)** , **O(V)** size array for vertices
 
 
