@@ -1,6 +1,7 @@
 import argparse
 from os import makedirs, chdir, listdir
 
+
 def create_teck(name, LeetCode):
     day = -1
     for title in listdir("."):
@@ -21,6 +22,7 @@ def create_teck(name, LeetCode):
         f.write(f"# Day: {next_day} \n___")
     with open(f"{name}_ihor.py", "w"):
         pass
+
 
 def main():
     parser = argparse.ArgumentParser(description="Creates the structured folder of a day")
