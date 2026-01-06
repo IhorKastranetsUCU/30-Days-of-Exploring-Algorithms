@@ -60,16 +60,18 @@ day05_two_pointers/
 
 ## Progress
 
-| Day | Algorithm                                                                       | Notes                                        | Ihor Status | Maksym Status |
-|-----|---------------------------------------------------------------------------------|----------------------------------------------|-----------|---------------|
-| 1   | [Prefix Sum](day01_prefix_sum/prefix_sum.md)                                    | [Day 1](day01_prefix_sum/day01_notes.md)     |    🟢     |       🟢        |
-| 2   | [Two Pointers](day02_two_pointers/two_pointers.md)                              | [Day 2](day02_two_pointers/day02_notes.md)   |   🟢          |     🟢              |
-| 3   | [Sliding Window](day03_sliding_window/sliding_algorithm.md)                     | [Day 3](day03_sliding_window/day03_notes.md) |       🟢         |         🟢             |
-| 4   | [Counting Sort](day04_counting_sort/counting_sort.md)                           | [Day 4](day04_counting_sort/notes.md)        |          🟢        |        🟢                |
-| 5   | [Interpolation search](day05_interpolation_search/interpolation_search.md)      | [Day 5](day05_interpolation_search/notes.md) |                🟢     |          🟢                 |
-| 6   | [Heap sort](day06_heap_sort/heap_sort.md)                                       | [Day 6](day06_heap_sort/notes.md)            |            🟢         |     🟢                      |
-| 7   | [DSU](day07_DSU/DSU.md)                                                         | [Day 7](day07_DSU/notes.md)                  |       🟢                 |    🟢                          |
-| 8   | [Kruskal's Algorithm](day08_Kruskal/Kruskal.md)                                 | [Day 8](day08_Kruskal/notes.md)              |          🟢                | 🟢                               |
-| 9   | [Prim's Algorithm](day09_Prim/Prim.md)                                          | [Day 9](day09_Prim/notes.md)                 |                🟠          |        🟢                        |
-| 10  | [Dijkstra's Algorithm](day10_Dijkstra/Dijkstra.md)                              | [Day 10](day10_Dijkstra/notes.md)            |            🟡              |           🟢                     |
-| 11  | [Bellman-Ford Algorithm](day11_Bellman-Ford/Bellman-Ford.md)                    | [Day 11](day11_Bellman-Ford/notes.md)                                   |    🟢                         |        🟢                           |
+| Day | Algorithm                                                                  | Notes                                        | Ihor Status | Maksym Status |
+|-----|----------------------------------------------------------------------------|----------------------------------------------|-----------|---------------|
+| 1   | [Prefix Sum](day01_prefix_sum/prefix_sum.md)                               | [Day 1](day01_prefix_sum/day01_notes.md)     |    🟢     |       🟢        |
+| 2   | [Two Pointers](day02_two_pointers/two_pointers.md)                         | [Day 2](day02_two_pointers/day02_notes.md)   |   🟢          |     🟢              |
+| 3   | [Sliding Window](day03_sliding_window/sliding_algorithm.md)                | [Day 3](day03_sliding_window/day03_notes.md) |       🟢         |         🟢             |
+| 4   | [Counting Sort](day04_counting_sort/counting_sort.md)                      | [Day 4](day04_counting_sort/notes.md)        |          🟢        |        🟢                |
+| 5   | [Interpolation search](day05_interpolation_search/interpolation_search.md) | [Day 5](day05_interpolation_search/notes.md) |                🟢     |          🟢                 |
+| 6   | [Heap sort](day06_heap_sort/heap_sort.md)                                  | [Day 6](day06_heap_sort/notes.md)            |            🟢         |     🟢                      |
+| 7   | [DSU](day07_DSU/DSU.md)                                                    | [Day 7](day07_DSU/notes.md)                  |       🟢                 |    🟢                          |
+| 8   | [Kruskal's Algorithm](day08_Kruskal/Kruskal.md)                            | [Day 8](day08_Kruskal/notes.md)              |          🟢                | 🟢                               |
+| 9   | [Prim's Algorithm](day09_Prim/Prim.md)                                     | [Day 9](day09_Prim/notes.md)                 |                🟠          |        🟢                        |
+| 10  | [Dijkstra's Algorithm](day10_Dijkstra/Dijkstra.md)                         | [Day 10](day10_Dijkstra/notes.md)            |            🟡              |           🟢                     |
+| 11  | [Bellman-Ford Algorithm](day11_Bellman-Ford/Bellman-Ford.md)               | [Day 11](day11_Bellman-Ford/notes.md)        |    🟢                         |        🟢                           |
+| 12  | [Floyd-Warshall](day12_Floyd-Warshall/Floyd_Warshall.md)                   | [Day 12](day12_Floyd-Warshall/notes.md)      |               🟢                |                🟢                     |
+| 13  | [Ford-Fulkerson](day13_Ford-Fulkerson/Ford-Fulkerson.md)                                                         | [Day 13](day13_Ford-Fulkerson/notes.md)                                   |                      🟡         |                   🟢                  |
