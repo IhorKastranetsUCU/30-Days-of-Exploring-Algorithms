@@ -2,7 +2,7 @@ import argparse
 from os import makedirs, chdir, listdir
 
 
-def create_teck(name, LeetCode):
+def create_teck(name, LeetCode, FreeCodeCamp):
     day = -1
     for title in listdir("."):
         if title.startswith("day"):
@@ -17,6 +17,9 @@ def create_teck(name, LeetCode):
     if LeetCode:
         with open(f"LeetCode.ipynb", "w"):
             pass
+    if FreeCodeCamp:
+        with open(f"freecodecamp.py", "w"):
+            pass
 
     with open(f"note.md", "w") as f:
         f.write(f"# Day: {next_day} \n___")
@@ -28,9 +31,10 @@ def main():
     parser = argparse.ArgumentParser(description="Creates the structured folder of a day")
     parser.add_argument("name", help="Name of the daily algorithm")
     parser.add_argument("-l", "--leetcode", action="store_true", help="Create LeetCode.ipynb file")
+    parser.add_argument("-f", "--freecodecamp", action="store_true", help="Create LeetCode.ipynb file")
     args = parser.parse_args()
 
-    create_teck(args.name, args.leetcode)
+    create_teck(args.name, args.leetcode, args.freecodecamp)
 
 
 if __name__ == "__main__":
